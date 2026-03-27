@@ -1,0 +1,19 @@
+{
+  "asr_provider": "openai",
+  "asr_app_id": "",
+  "asr_access_key": "",
+  "asr_api_key": "sk-your-whisper-api-key",
+  "asr_base_url": "",
+  "asr_model": "whisper-1",
+  "text_api_key": "sk-your-text-model-api-key",
+  "text_base_url": "",
+  "text_model": "gpt-4o",
+  "vision_api_key": "sk-your-vision-model-api-key",
+  "vision_base_url": "",
+  "vision_model": "gpt-4o",
+  "silence_db": -40,
+  "silence_min_dur": 2.0,
+  "active_min_dur": 3.0,
+  "keyframe_interval": 2,
+  "default_min_score": 6
+}
